@@ -1,2 +1,2 @@
-# OlaMundo.2
-Esse é o segundo repositório que estou criando, mas quando criei o primeiro nem sabia o que estava fazendo
+# CursoPython.2
+Compartilhando alguns dos exercícios que fiz em um curso básico de Python
