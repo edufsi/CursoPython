@@ -1,17 +1,17 @@
-l = list()
-c = list()
+linha = list()
+coluna = list()
 copia = list()
-somapar = somaimpar = somatercol = num = int(0)
+somapar = somaimpar = soma_3_coluna = num = int(0)
 
 for i in range(3):
     for j in range (3):
-        c.append(int(input('Digite um número: ')))
-    l.append(c[:])
-    c.clear()
+        coluna.append(int(input('Digite um número: ')))
+    linha.append(c[:])
+    coluna.clear()
 
 
-#Para cada coluna numa linha e pro valor em cada coluna, verificar se é par ou impar e se está na terceira coluna:    
-for c in l:
+   
+for coluna in linha:
     for v in c:
   
             
@@ -21,7 +21,7 @@ for c in l:
             somaimpar += v
     
 for i in range(0,3):
-    somatercol += l[2]
+    soma_3_coluna += l[2]
 
     
     
@@ -33,5 +33,5 @@ for i in range(0,3):
     print()
 print(somapar)
 print(somaimpar)
-print(somatercol)
+print(soma_3_coluna)
 print(max(l[1]))

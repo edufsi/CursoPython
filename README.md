@@ -1,2 +1,23 @@
-# OlaMundo.2
-Esse é o segundo repositório que estou criando, mas quando criei o primeiro nem sabia o que estava fazendo
+## Compartilhando alguns dos exercícios que fiz em um curso básico de Python:
+* [Estudo de triângulos](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex1.py)
+* [Soma de números pares e ímpares em uma matriz](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex10.py)
+* [Sorteando jogos da Mega Sena](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex11.py)
+* [Cadastro de alunos e notas](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex12.py)
+* [Jogo do maior número](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex13.py)
+* [Cadastro CTPS](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex14.py)
+* [Cadastro de pessoas e de suas informações](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex15.py)
+* [Registro de jogadores e gols (soma e média)](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex16.py)
+* [Registro de jogadores e gols - aprimoramento (tabela)](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex17.py)
+* [Tabuada de um número](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex2.py)
+* [Cadastro de produtos](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex3.py)
+* [Quebra de valores em notas e moedas](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex4.py)
+* [Organização de valores em uma lista: localização do maior e do menor valor](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex5.py)
+* [Lista de valores não aceitando duplicatas](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex6.py)
+* [Organização de valores em uma lista: localização do valor inserido](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex7.py)
+* [Dicionários: maior e menor peso entre pessoas](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex8.py)
+* [Mostrando valores pares e ímpares dentro de uma lista](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/ex9.py)
+* [Jogo de Par ou Ímpar](https://github.com/edufsi/CursoPython/tree/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo)
+* [Extra: Criação de ficha D&D](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/Criacao_ficha_D%26D.py)
+* [Extra: Jogo 'Termo' no terminal](https://github.com/edufsi/CursoPython/blob/main/Exerc%C3%ADcios_B%C3%A1sicos_CursoEmVideo/Termo(jogo)_B%C3%A1sico.py)
+
+

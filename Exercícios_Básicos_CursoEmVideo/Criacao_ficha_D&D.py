@@ -4,7 +4,7 @@ rolagens = list()
 ficha = list()
 atributos= list()
 minimo = mini = int()
-fi = {'FOR' : ' ',
+dict_ficha = {'FOR' : ' ',
 'DES' : ' ',
 'CON' : ' ',
 'SAB' : ' ',
@@ -53,14 +53,14 @@ for i,v in enumerate(ficha):
         else:
 
             print('Digite um atributo válido [for, des, con, int, sab, car]:')
-    if fi[carac] != ' ':
-        ficha.append(fi[carac][:])
-        fi.pop(carac)
-        fi[carac] = ficha[i].copy()
+    if dict_ficha[carac] != ' ':
+        ficha.append(dict_ficha[carac][:])
+        dict_ficha.pop(carac)
+        dict_ficha[carac] = ficha[i].copy()
         
             
     else:
-        fi[carac] = ficha[i].copy()
+        dict_ficha[carac] = ficha[i].copy()
     for i, v in fi.items():
         print(f'{i}: {v}')
     print('-' * 54)
